@@ -1,0 +1,11 @@
+{
+	"name": "openhab-helper",
+	"version": "1.0.0",
+	"keywords": ["util", "functional", "server"],
+	"author": "domhaas@gmail.com",
+	"contributors": [],
+	"dependencies": {
+		"cul": "*",
+		"node-dht-sensor": "*"
+	}
+}
