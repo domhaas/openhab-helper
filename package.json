@@ -6,6 +6,7 @@
 	"contributors": [],
 	"dependencies": {
 		"cul": "*",
-		"node-dht-sensor": "*"
+		"node-dht-sensor": "*",
+		"request": "2.*"
 	}
 }
